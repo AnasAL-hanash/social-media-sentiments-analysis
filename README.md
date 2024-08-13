@@ -16,8 +16,11 @@ Loading the Dataset: Load the dataset from a CSV file.
 Exploring the Data: Perform descriptive statistics and visualize data distribution.
 Visualizing Correlations: Create a heatmap to visualize correlations between features.
 Data Splitting: Split the dataset into training and testing sets.
-Model Training
-Model Evaluation
+
+Model Training.
+
+Model Evaluation.
+
 
 Conclusion:
 
